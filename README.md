@@ -1,1 +1,1 @@
-# gstreamer-for-android
+# gstreamer
